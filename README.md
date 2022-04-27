@@ -3,7 +3,7 @@
 - I am passionate about data. I enjoy working on data, whether sourcing it, cleaning it, analyzing or visualizing it. In a nutshell:-
 
 - 🔭 I’m a Data Analyst
-- 
+
 - 🌱 I’m always learning on ways to improve my data skills. 
 
 
