@@ -1,6 +1,6 @@
-### Hi there 👋 Let me introduce myself.
+### Hi there 👋 Let me introduce Evelyn Wangai
 
-- I am passionate about data. I enjoy working on data, whether sourcing it, cleaning it, analyzing or visualizing it. In a nutshell:-
+ I am passionate about data. I enjoy working on data, whether sourcing it, cleaning it, analyzing or visualizing it. In a nutshell:-
 
 - 🔭 I’m a Data Analyst
 
